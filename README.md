@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Al👋
+
+I'm a Computer Science student focusing on Web Development. 
+
+I mostly work with frontend stuff using React, Vue Next, and animations using Motion.
+
+I also work with backend systems using Express, Node, and Laravel. 
+
+---
+
+# Featured Projects
 
 <!--
 **TrollfaceGaming69/TrollfaceGaming69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
