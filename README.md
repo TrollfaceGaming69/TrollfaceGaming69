@@ -2,9 +2,9 @@
 
 I'm a Computer Science student focusing on Web Development. 
 
-I mostly work with frontend stuff using React, Vue Next, and animations using Motion.
+I mostly work with frontend stuff using React, Vue, Next, and animations using Motion.
 
-I also work with backend systems using Express, Node, and Laravel. 
+I also sometimes work with backend systems using Express, Node, and Laravel. 
 
 
 <!--
